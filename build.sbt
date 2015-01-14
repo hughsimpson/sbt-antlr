@@ -19,4 +19,4 @@ credentials += Credentials(Path.userHome / ".config" / "xsbt-sh" / "nexus.config
 
 crossBuildingSettings
 
-CrossBuilding.crossSbtVersions := Seq("0.12", "0.13")
+CrossBuilding.crossSbtVersions := Seq("0.12.4", "0.13")
